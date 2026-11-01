@@ -1,1 +1,2 @@
 # ios-x505f
+NOT READY TO BOOT
